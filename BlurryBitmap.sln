@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlurryBitmap", "BlurryBitmap\BlurryBitmap.csproj", "{51572C74-25F2-4DE4-8BF1-AFBEE83CA464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{6581EBCD-7ADB-47F7-B89E-60A60D0881F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51572C74-25F2-4DE4-8BF1-AFBEE83CA464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51572C74-25F2-4DE4-8BF1-AFBEE83CA464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51572C74-25F2-4DE4-8BF1-AFBEE83CA464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51572C74-25F2-4DE4-8BF1-AFBEE83CA464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6581EBCD-7ADB-47F7-B89E-60A60D0881F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6581EBCD-7ADB-47F7-B89E-60A60D0881F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6581EBCD-7ADB-47F7-B89E-60A60D0881F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6581EBCD-7ADB-47F7-B89E-60A60D0881F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F4F446E-8A78-4099-A87B-9BA630279EDF}
+	EndGlobalSection
+EndGlobal
