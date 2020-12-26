@@ -27,7 +27,6 @@ namespace Test
             Process.Start("cmd.exe ", $"/c {blurredImagePath}");
         }
 
-
         static string AssemblyDirectory => Path.GetDirectoryName(Uri.UnescapeDataString(new UriBuilder(Assembly.GetExecutingAssembly().CodeBase).Path));
     }
 }
